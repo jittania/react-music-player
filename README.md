@@ -1,13 +1,15 @@
-## React Music Player App
+# **React Music Player App**
 
 𓆏 ⊹☾⋆⁺₊🎧✩°｡ 𓆏 ⊹☾⋆⁺₊🎧✩°｡ 𓆏
 
----
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+## **Application Features**
+
+Currently, this app allows streaming playback (with pause and skip functionality) of a selected audio track from a browser window.
+
+## **Local Setup Instructions**
 
 In the project directory, you can run:
 
