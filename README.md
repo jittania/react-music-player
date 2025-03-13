@@ -4,10 +4,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+---
 
 ## **Application Features**
 
 Currently, this app allows streaming playback (with pause and skip functionality) of a selected audio track from a browser window.
+
+---
 
 ## **Local Setup Instructions**
 
