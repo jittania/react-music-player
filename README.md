@@ -14,12 +14,13 @@ Currently, this app allows streaming playback (with pause and skip functionality
 
 ## **Local Setup Instructions**
 
-In the project directory, you can run:
+1. `cd` into `react-audio-player`
 
-### `npm start`
+2. Install dependencies with `npm install`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. Start the development server with `npm start`
 
-The page will reload when you make changes.\
+4. Navigate to [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.
 You may also see any lint errors in the console.
